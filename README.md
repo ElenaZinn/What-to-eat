@@ -2,6 +2,8 @@
 
 一个自定义转盘抽奖工具。使用纯HTML、CSS和JavaScript实现，无需任何外部依赖（除了像素字体）。
 
+<img width="908" height="680" alt="image" src="https://github.com/user-attachments/assets/44d0b7c7-a0f0-40f2-9134-d5d94a93c86e" />
+
 <img width="875" height="524" alt="image" src="https://github.com/user-attachments/assets/a0ca42b2-ca03-47b1-b464-08d0c570896f" />
 
 ## ✨ 特点
