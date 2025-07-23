@@ -2,7 +2,7 @@
 
 一个自定义转盘抽奖工具。使用纯HTML、CSS和JavaScript实现，无需任何外部依赖（除了像素字体）。
 
-![预览图](preview.png)
+<img width="875" height="524" alt="image" src="https://github.com/user-attachments/assets/a0ca42b2-ca03-47b1-b464-08d0c570896f" />
 
 ## ✨ 特点
 
@@ -17,9 +17,6 @@
   - 动态指针效果
   - 胜利提示动画
   - 像素完美的边框
-
-<img width="875" height="524" alt="image" src="https://github.com/user-attachments/assets/a0ca42b2-ca03-47b1-b464-08d0c570896f" />
-
 
 ## 🚀 使用方法
 
